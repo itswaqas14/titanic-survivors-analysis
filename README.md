@@ -1,5 +1,5 @@
 # Titanic survior analysis
-**Preprocessing**, **Analysis** and **Visulization** of the infamous [titanic dataset](https://www.kaggle.com/c/titanic/data?select=test.csv).
+**Preprocessing**, **Analysis** and **Visualization** of the infamous [titanic dataset](https://www.kaggle.com/c/titanic/data?select=test.csv).
 ### Dependencies
 > pandas \
 > matplotlib
